@@ -2,7 +2,7 @@ import {BrowserRouter, Routes, Route } from 'react-router-dom';
 //import "./App.css";
 import Navbar from './pages/Navbar';
 import Home from './pages/Home';
-import Watchlist from './pages/WatchList';
+import Watchlist from './pages/Watchlist';
 import { WatchListProvider } from './context/WatchListContext';
 
 
